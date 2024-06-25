@@ -14,6 +14,10 @@ web3 学习笔记
 以 web2 的观点来看
 链是服务器，合约是链上的服务
 
+有点像是 serverless 的概念
+
+## 思考
+
 from: https://www.bilibili.com/video/BV1pM4m1S74X/?spm_id_from=pageDriver&vd_source=e70b4a7e1d135e2e00acc2e7ef218f69
 
 ## 参考资料
