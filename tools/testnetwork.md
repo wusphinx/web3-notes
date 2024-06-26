@@ -9,7 +9,8 @@
 
 ## 获取 sepolia 
 
-https://www.alchemy.com/faucets/ethereum-sepolia
+- https://www.alchemy.com/faucets/ethereum-sepolia
+- https://faucets.chain.link/
 
 每天限领取 0.1 个 sepolia eth, 前提是你得有一个 eth 的钱包，余额至少是 0.001 个。
 
