@@ -16,9 +16,13 @@ web3 学习笔记
 
 有点像是 serverless 的概念
 
+## ABI
+ABI 是一个描述合约接口的 JSON 数组。
+
 ## 思考
 
 from: https://www.bilibili.com/video/BV1pM4m1S74X/?spm_id_from=pageDriver&vd_source=e70b4a7e1d135e2e00acc2e7ef218f69
 
 ## 参考资料
 - [Web3 基础知识](https://www.hackquest.io/zh/practices/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c)
+- https://remix-ide.readthedocs.io/zh-cn/latest/run.html
