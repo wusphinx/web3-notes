@@ -11,6 +11,7 @@
 
 - https://www.alchemy.com/faucets/ethereum-sepolia
 - https://faucets.chain.link/
+- https://sepolia-faucet.pk910.de/  在线挖矿
 
 每天限领取 0.1 个 sepolia eth, 前提是你得有一个 eth 的钱包，余额至少是 0.001 个。
 
