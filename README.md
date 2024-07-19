@@ -31,9 +31,15 @@ ABI 是一个描述合约接口的 JSON 数组。
 怎么办？要从那些只有 Web3 能干而 Web2 干不了的事情出发。
 道理很简单，但只要你明白这个道理，就能过滤掉一大批伪 Web3 项目。
 
+看到一句话很有意思，耐人寻味：
+>比特币是自由主义，AI是共产主义
+
+## 教程
+- https://decert.me/: 今天刚发现的平台，课程设计不错，适合入门以及查漏补缺，完成认证还可以领取 SBT
 
 ## 参考资料
 - [Web3 基础知识](https://www.hackquest.io/zh/practices/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c)
 - https://remix-ide.readthedocs.io/zh-cn/latest/run.html
 - https://x.com/myanTokenGeek/status/1808073573476491582
 - https://www.bilibili.com/video/BV1pM4m1S74X/?spm_id_from=pageDriver&vd_source=e70b4a7e1d135e2e00acc2e7ef218f69
+- https://mp.weixin.qq.com/s/DRWs32Ka42fthWz10B-jbg
